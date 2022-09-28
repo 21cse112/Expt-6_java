@@ -30,9 +30,9 @@ public class Expt6java {
         {
         System.out.println("Enter address of the apartment"+(i+1)+":");
         address[i]=sc.next();
-        System.out.println("Enter no of the apartment"+(i+1)+":");
+        System.out.println("Enter number of the apartment"+(i+1)+":");
         apt_no[i]=sc.next();
-        System.out.println("Enter bed countof the apartment"+(i+1)+":");
+        System.out.println("Enter the bed countof the apartment"+(i+1)+":");
         beds[i]=sc.nextInt();
         System.out.println("Enter rent of the apartment"+(i+1)+":");
         rent[i]=sc.nextDouble();
